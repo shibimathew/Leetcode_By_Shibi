@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0941-sort-array-by-parity) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0782-jewels-and-stones) |
 | [2777-find-the-distinct-difference-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2777-find-the-distinct-difference-array) |
 ## Math
