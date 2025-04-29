@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1806-count-of-matches-in-tournament) |
+| [2507-number-of-common-factors](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2507-number-of-common-factors) |
 | [3055-maximum-odd-binary-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3055-maximum-odd-binary-number) |
 ## Greedy
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1137-height-checker) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
