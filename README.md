@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0941-sort-array-by-parity) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
+| [3194-find-words-containing-character](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0520-detect-capital) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
+| [3194-find-words-containing-character](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
