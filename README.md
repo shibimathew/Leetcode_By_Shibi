@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0958-sort-array-by-parity-ii) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
 | [2777-find-the-distinct-difference-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2777-find-the-distinct-difference-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0958-sort-array-by-parity-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0958-sort-array-by-parity-ii) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2836-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
