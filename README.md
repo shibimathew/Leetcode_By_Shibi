@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2048-build-array-from-permutation](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2048-build-array-from-permutation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2350-find-closest-number-to-zero](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2350-find-closest-number-to-zero) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0782-jewels-and-stones) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2365-percentage-of-letter-in-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2365-percentage-of-letter-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
 | [3055-maximum-odd-binary-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3055-maximum-odd-binary-number) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2777-find-the-distinct-difference-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2777-find-the-distinct-difference-array) |
 ## Math
 |  |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Enumeration
 |  |
 | ------- |
