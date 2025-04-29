@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
