@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0520-detect-capital](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0520-detect-capital) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
+| [3055-maximum-odd-binary-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -51,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1806-count-of-matches-in-tournament) |
+| [3055-maximum-odd-binary-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3055-maximum-odd-binary-number) |
+## Greedy
+|  |
+| ------- |
+| [3055-maximum-odd-binary-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3055-maximum-odd-binary-number) |
 <!---LeetCode Topics End-->
