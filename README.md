@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1019-squares-of-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
