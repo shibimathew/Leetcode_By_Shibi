@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
 ## String
@@ -11,4 +12,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0520-detect-capital](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0520-detect-capital) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
+## Two Pointers
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
