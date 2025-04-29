@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
+| [1806-count-of-matches-in-tournament](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1806-count-of-matches-in-tournament) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2777-find-the-distinct-difference-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2777-find-the-distinct-difference-array) |
+## Math
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
