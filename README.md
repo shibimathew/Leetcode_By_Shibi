@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1899-count-items-matching-a-rule](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2048-build-array-from-permutation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2350-find-closest-number-to-zero](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2350-find-closest-number-to-zero) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1899-count-items-matching-a-rule](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1899-count-items-matching-a-rule) |
 | [2365-percentage-of-letter-in-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2365-percentage-of-letter-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
 | [3055-maximum-odd-binary-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3055-maximum-odd-binary-number) |
