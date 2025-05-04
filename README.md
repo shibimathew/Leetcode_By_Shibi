@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0268-missing-number) |
+| [1086-divisor-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1086-divisor-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1806-count-of-matches-in-tournament) |
 | [2507-number-of-common-factors](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2507-number-of-common-factors) |
 | [2752-sum-multiples](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2752-sum-multiples) |
@@ -138,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
