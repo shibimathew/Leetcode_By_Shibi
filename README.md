@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1899-count-items-matching-a-rule) |
@@ -135,11 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3055-maximum-odd-binary-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3055-maximum-odd-binary-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1137-height-checker) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1848-sum-of-unique-elements) |
