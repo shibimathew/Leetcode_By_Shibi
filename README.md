@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1319-unique-number-of-occurrences) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-smallest-range-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0944-smallest-range-i) |
 | [1086-divisor-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1086-divisor-game) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1806-count-of-matches-in-tournament) |
 | [2507-number-of-common-factors](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
