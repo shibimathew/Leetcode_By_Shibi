@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1833-find-the-highest-altitude](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1899-count-items-matching-a-rule) |
 | [1983-maximum-population-year](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1983-maximum-population-year) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1833-find-the-highest-altitude](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1983-maximum-population-year) |
 ## Heap (Priority Queue)
 |  |
