@@ -2,9 +2,9 @@
  * @param {number[]} gain
  * @return {number}
  */
-var largestAltitude = function(gain) {
-      let maxAltitude = 0;
+function largestAltitude(gain) {
     let currentAltitude = 0;
+    let maxAltitude = 0;
 
     for (let i = 0; i < gain.length; i++) {
         currentAltitude += gain[i];
@@ -14,5 +14,4 @@ var largestAltitude = function(gain) {
     }
 
     return maxAltitude;
-
-};
+}
