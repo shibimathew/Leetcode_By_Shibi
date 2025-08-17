@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0837-most-common-word](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0837-most-common-word) |
