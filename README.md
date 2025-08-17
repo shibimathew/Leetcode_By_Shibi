@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1019-squares-of-a-sorted-array) |
+| [1127-last-stone-weight](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1241-decompress-run-length-encoded-list) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0506-relative-ranks) |
+| [1127-last-stone-weight](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1127-last-stone-weight) |
 ## String Matching
 |  |
 | ------- |
