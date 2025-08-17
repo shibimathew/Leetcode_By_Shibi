@@ -3,15 +3,12 @@
  * @return {number}
  */
 var heightChecker = function(heights) {
- let count =0
-   
-   let expected=[...heights].sort((a,b)=>a-b)
-    console.log(expected)
+    let a=[...heights].sort((a,b)=>a-b)
+    let count=0
     for(let i=0;i<heights.length;i++){
-        if(heights[i] != expected[i]){
-                count++     
-                
-        } 
+        if(heights[i]!=a[i]){
+            count++
+        }
     }
-    return count
+    return count  
 };
