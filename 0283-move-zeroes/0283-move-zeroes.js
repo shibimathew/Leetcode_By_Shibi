@@ -3,9 +3,9 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var moveZeroes = function(nums) {
-      let count = nums.length; 
+     let count = nums.length; 
     for(let i=0;i<count;i++){
-       
+        
         if(nums[i]==0){
             nums.splice(i,1)
             nums.push(0)
