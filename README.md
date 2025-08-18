@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
