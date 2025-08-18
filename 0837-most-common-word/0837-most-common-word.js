@@ -5,7 +5,7 @@
  */
 var mostCommonWord = function(paragraph, banned) {
    
-   let para = paragraph.toLowerCase().replace(/[^a-z]/g, ' ') .split(/\s+/);
+   let para = paragraph.toLowerCase().split(/[" !?',;."]/)
 
     let count = {};
     for (let i = 0; i < para.length; i++) {
