@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0830-largest-triangle-area](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0941-sort-array-by-parity) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0628-maximum-product-of-three-numbers) |
+| [0830-largest-triangle-area](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0830-largest-triangle-area) |
 | [0944-smallest-range-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0944-smallest-range-i) |
 | [1086-divisor-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1086-divisor-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2292-counting-words-with-a-given-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
