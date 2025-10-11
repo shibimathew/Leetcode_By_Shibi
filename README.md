@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0500-keyboard-row) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0958-sort-array-by-parity-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0628-maximum-product-of-three-numbers) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0837-most-common-word) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2210-find-target-indices-after-sorting-array) |
