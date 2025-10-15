@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0830-largest-triangle-area) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0837-most-common-word) |
 | [1319-unique-number-of-occurrences](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1319-unique-number-of-occurrences) |
