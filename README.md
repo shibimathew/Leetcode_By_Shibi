@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3188-find-champion-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3227-find-missing-and-repeated-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
 | [1806-count-of-matches-in-tournament](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2048-build-array-from-permutation) |
+| [3226-minimum-number-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1127-last-stone-weight) |
+| [3226-minimum-number-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3226-minimum-number-game) |
 ## String Matching
 |  |
 | ------- |
