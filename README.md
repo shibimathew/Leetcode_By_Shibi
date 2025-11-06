@@ -290,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0830-largest-triangle-area) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
