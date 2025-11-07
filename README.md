@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0500-keyboard-row) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0350-intersection-of-two-arrays-ii) |
