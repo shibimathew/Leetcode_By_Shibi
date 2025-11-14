@@ -4,26 +4,14 @@
  * @return {number}
  */
 var commonFactors = function(a, b) {
+     let count = 0;
+    let limit = Math.min(a, b);
 
-
-
-    function gcd(x, y) {
-        return y === 0 ? x : gcd(y, x % y);
-    }
-
-    let gcdValue = gcd(a, b);
-    let count = 0;
-
-    for (let i = 1; i <= gcdValue; i++) {
-        if (gcdValue % i === 0) {
+    for (let i = 1; i <= limit; i++) {
+        if (a % i === 0 && b % i === 0) {
             count++;
         }
     }
 
     return count;
-
-
-
-
-    
 };
