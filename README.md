@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2048-build-array-from-permutation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2350-find-closest-number-to-zero) |
