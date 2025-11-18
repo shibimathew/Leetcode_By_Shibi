@@ -4,5 +4,14 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-   return s.split('').sort().join("")==t.split('').sort().join("")
+    if(s.length!==t.length) return false
+    let h={}
+    for(let i of t){
+        h[i]=(h[i]||0)+1
+    }
+    for(let j of s){
+        if(!h[j])return false
+        h[j]--
+    }
+    return true
 };
