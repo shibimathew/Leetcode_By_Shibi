@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0520-detect-capital) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0628-maximum-product-of-three-numbers) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0575-distribute-candies) |
