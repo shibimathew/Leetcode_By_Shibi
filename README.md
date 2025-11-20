@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1899-count-items-matching-a-rule) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1894-merge-strings-alternately](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
