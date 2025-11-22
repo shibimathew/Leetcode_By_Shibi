@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
 | [2881-split-strings-by-separator](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2881-split-strings-by-separator) |
 | [3055-maximum-odd-binary-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3055-maximum-odd-binary-number) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3636-check-balanced-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2502-sort-the-people) |
 | [2777-find-the-distinct-difference-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2777-find-the-distinct-difference-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
