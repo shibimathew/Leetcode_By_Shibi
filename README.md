@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1970-sorting-the-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2299-strong-password-checker-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2299-strong-password-checker-ii) |
 | [2365-percentage-of-letter-in-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
