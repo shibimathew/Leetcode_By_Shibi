@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
 | [2777-find-the-distinct-difference-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2777-find-the-distinct-difference-array) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2881-split-strings-by-separator) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-percentage-of-letter-in-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2881-split-strings-by-separator](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2881-split-strings-by-separator) |
 | [3055-maximum-odd-binary-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3055-maximum-odd-binary-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3120-count-the-number-of-special-characters-i) |
