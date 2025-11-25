@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3668-restore-finishing-order](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3668-restore-finishing-order) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2777-find-the-distinct-difference-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2777-find-the-distinct-difference-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3227-find-missing-and-repeated-values) |
+| [3668-restore-finishing-order](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
