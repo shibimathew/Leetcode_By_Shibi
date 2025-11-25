@@ -17,9 +17,12 @@ var strongPasswordCheckerII = function(password) {
       if(!password.match(/[!@#$%^&*()\-\+]/)){
       return false
       }
-      if(password.match(/(.)\1/)){
-        return false
-      }
+    //   if(password.match(/(.)\1/)){
+    //     return false
+    //   }
+    for (let i = 0; i < password.length; i++) {
+    if (password[i] === password[i +1]) return false;
+}
     
         return true
     
