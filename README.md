@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3227-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2777-find-the-distinct-difference-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2777-find-the-distinct-difference-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3227-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2752-sum-multiples) |
 | [3055-maximum-odd-binary-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3227-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3371-harshad-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
