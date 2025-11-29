@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0133-clone-graph) |
+| [0938-range-sum-of-bst](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -370,4 +371,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0133-clone-graph) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
