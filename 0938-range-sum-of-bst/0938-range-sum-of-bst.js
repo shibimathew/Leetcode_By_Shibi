@@ -20,11 +20,10 @@ var rangeSumBST = function(root, low, high) {
         inorder(node.left)
         arr.push(node.val)
         inorder(node.right)
-    
-   
+  } 
+  inorder(root) 
 
-  }
-  inorder(root)
+  
   console.log(arr)
       let sum=0
       for(let i=0;i<arr.length;i++){
@@ -34,7 +33,7 @@ var rangeSumBST = function(root, low, high) {
             }
         }
       }
-  return sum
+    return sum
       
  
 };
