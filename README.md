@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1899-count-items-matching-a-rule) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1983-maximum-population-year](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2048-build-array-from-permutation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1448-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1688-count-of-matches-in-tournament) |
 | [1806-count-of-matches-in-tournament](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1806-count-of-matches-in-tournament) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2507-number-of-common-factors) |
 ## Binary Search
 |  |
