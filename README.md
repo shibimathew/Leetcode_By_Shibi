@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3188-find-champion-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3226-minimum-number-game) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1688-count-of-matches-in-tournament) |
 | [1806-count-of-matches-in-tournament](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2048-build-array-from-permutation) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1983-maximum-population-year) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Enumeration
 |  |
 | ------- |
