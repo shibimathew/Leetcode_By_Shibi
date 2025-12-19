@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1137-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0837-most-common-word) |
 | [1319-unique-number-of-occurrences](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0837-most-common-word) |
 | [1137-height-checker](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1137-height-checker) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1848-sum-of-unique-elements) |
