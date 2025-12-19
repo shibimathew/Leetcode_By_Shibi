@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3668-restore-finishing-order](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3668-restore-finishing-order) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3745-maximize-expression-of-three-elements) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3227-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3668-restore-finishing-order) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1983-maximum-population-year) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
