@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2881-split-strings-by-separator](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2881-split-strings-by-separator) |
+| [3019-number-of-changing-keys](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3019-number-of-changing-keys) |
 | [3055-maximum-odd-binary-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3055-maximum-odd-binary-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3194-find-words-containing-character) |
