@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3151-special-array-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3151-special-array-i) |
 | [3188-find-champion-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
