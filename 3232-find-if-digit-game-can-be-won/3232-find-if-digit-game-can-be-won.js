@@ -3,13 +3,28 @@
  * @return {boolean}
  */
 var canAliceWin = function(nums) {
-    let s=0;
-    let d=0;
-    for(let i=0;i<nums.length;i++){
-        if(nums[i]<10){
-            s+=nums[i]
-        }else{
-            d+=nums[i]
+    let singleSum = 0;
+    let doubleSum = 0;
+    let total = 0;
+
+    for (let num of nums) {
+        total += num;
+        if (num < 10) {
+            singleSum += num;
+        } else {
+            doubleSum += num;
         }
-    }return s!==d
-}
+    }
+
+  
+    if (singleSum > total - singleSum) {
+        return true;
+    }
+
+  
+    if (doubleSum > total - doubleSum) {
+        return true;
+    }
+
+    return false;
+};
