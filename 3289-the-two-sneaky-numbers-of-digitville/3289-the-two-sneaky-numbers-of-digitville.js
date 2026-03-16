@@ -3,15 +3,15 @@
  * @return {number[]}
  */
 var getSneakyNumbers = function(nums) {
-    let h={}
-  let res=[]
+    let obj={}
     for(let i of nums){
-     h[i]=(h[i]||0)+1
+        obj[i]=(obj[i]||0)+1
     }
-    for(let j in h){
-        if(h[j]==2){
-         res.push(Number(j))
+    let arr=[]
+   for(let i in obj){
+    if(obj[i]==2){
+        arr.push(Number(i))
+    }
 
-        }
-    }return res
+   } return arr
 };
