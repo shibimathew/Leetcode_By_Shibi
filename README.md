@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2315-count-asterisks) |
 | [2365-percentage-of-letter-in-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2502-sort-the-people) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2727-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2881-split-strings-by-separator](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2881-split-strings-by-separator) |
