@@ -4,12 +4,12 @@
  */
 var removeTrailingZeros = function(num) {
     let a=num.split('')
-  for(let i=a.length-1;i>=0;i--){
-    if(a[i]==='0'){
+   for(let i=a.length-1;i>=0;i--){
+    if(a[i]=='0'){
         a.pop()
     }else{
         break
     }
-  }
-  return a.join('')
+   }
+   return a.join('')
 };
