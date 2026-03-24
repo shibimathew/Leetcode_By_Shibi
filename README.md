@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1748-sum-of-unique-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1748-sum-of-unique-elements) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1833-find-the-highest-altitude) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
