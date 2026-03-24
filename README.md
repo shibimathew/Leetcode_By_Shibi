@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0035-search-insert-position) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0058-length-of-last-word) |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0098-validate-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0938-range-sum-of-bst) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
