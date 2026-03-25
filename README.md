@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1983-maximum-population-year](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2048-build-array-from-permutation) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1970-sorting-the-sentence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2299-strong-password-checker-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2299-strong-password-checker-ii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1894-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2442-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2540-minimum-common-value) |
