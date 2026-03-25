@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1319-unique-number-of-occurrences](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1408-string-matching-in-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1408-string-matching-in-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1408-string-matching-in-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1408-string-matching-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1408-string-matching-in-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1408-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Geometry
 |  |
