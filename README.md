@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1983-maximum-population-year](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2048-build-array-from-permutation) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1859-sorting-the-sentence](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1859-sorting-the-sentence) |
 | [1970-sorting-the-sentence](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1970-sorting-the-sentence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2094-finding-3-digit-even-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2502-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2706-buy-two-chocolates) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2540-minimum-common-value) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2507-number-of-common-factors) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/3745-maximize-expression-of-three-elements) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0021-merge-two-sorted-lists) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/2094-finding-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
