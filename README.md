@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0500-keyboard-row) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0500-keyboard-row) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0837-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1137-height-checker](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/1137-height-checker) |
