@@ -453,11 +453,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0133-clone-graph) |
 | [0938-range-sum-of-bst](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0133-clone-graph) |
 ## Graph
 |  |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0938-range-sum-of-bst) |
 ## Trie
 |  |
