@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0830-largest-triangle-area](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0830-largest-triangle-area) |
@@ -488,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shibimathew/Leetcode_By_Shibi/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
